@@ -1,0 +1,49 @@
+.active {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 20px;
+    background-color: #151732;
+    color: white;
+    position: fixed;
+    z-index: 3;
+    right: 0;
+    top: 0;
+    width: 55%;
+    height: 100vh;
+    padding-top: 70px;
+    padding-left: 20px;
+}
+
+/* @media (width<768px) {
+    .nav-links {
+        width: 64%;
+        height: 100vh;
+        background-color: blueviolet;
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transform: translateX(100%);
+        transition: all 0.5s linear;
+        opacity: 0;
+        visibility: hidden;
+        pointer-events: none;
+    }
+
+    .active{
+        overflow: visible;
+    }
+
+    .active .nav-links {
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+        pointer-events: auto;
+        z-index: 1;
+    }
+
+} */

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /appointments/
+Disallow: /al-quran/
+Allow: /
+Sitemap: https://lamaesthetic.co.uk/sitemap.xml
