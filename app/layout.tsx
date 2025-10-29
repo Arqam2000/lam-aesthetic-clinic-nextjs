@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Lam Aesthetic Clinic",
   description: "Welcome to Lam Aesthetic Clinic. Your destination for safe, effective, and elegant facial rejuvenation treatments. Specializing in Botox, Dermal Fillers, and Skin Boosters, we help you look and feel your best.",
-  keywords: "lam aesthetics, beauty clinic, aesthetics,lam,leeds,dr.lam, clinic,uk,aesthetic,beauty,tooba,lip fillers ,wrinkle , anti wrinkle, anti-wrinkle, botox, dermal , dermal fillers,profhilo, eyebrow lift,alwoodley leeds,alwoodley, toobasharaf,lam aesthetics studio,aesthetics studio,studio, non-surgical ,eyebrows,skin , hyaluronic, skin treatment, anti wrinkle injections,lip, aesthetic in leeds"
+  keywords: "lam aesthetics, beauty clinic, aesthetics,lam,leeds,dr.lam, clinic,uk,aesthetic,beauty,tooba,lip fillers ,wrinkle , anti wrinkle, anti-wrinkle, botox, dermal , dermal fillers,profhilo, eyebrow lift,alwoodley leeds,alwoodley, toobasharaf,lam aesthetics studio,aesthetics studio,studio, non-surgical ,eyebrows,skin , hyaluronic, skin treatment, anti wrinkle injections,lip, aesthetic in leeds, medical spa"
 };
 
 export default function RootLayout({
