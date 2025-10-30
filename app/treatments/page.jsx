@@ -14,7 +14,7 @@ const page = () => {
           <h1 className='text-4xl font-semibold mb-4'>Treatments</h1>
           <p className=''>"After a consultation, Lam Aesthetic Clinic offers a wide range of treatments—from anti-wrinkle procedures for both women and men, to dermal and lip fillers, PRP, and skin boosters. We’re confident we have a treatment that will suit your needs and help you glow."</p>
         </div>
-        <div>
+        <div className='md:w-[256px] w-[250px]'>
           <Image src="/lam-aesthetic-treatments.jpg" alt="treatment" className='w-full h-full'  width={256} height={20}/>
         </div>
       </div>
