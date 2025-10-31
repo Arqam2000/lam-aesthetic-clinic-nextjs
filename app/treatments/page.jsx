@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
+import MainContentImage from '@/components/MainContentImage';
 
 export const metadata = {
   title: "Lam Aesthetic Clinic - Treatments",
@@ -9,13 +10,14 @@ export const metadata = {
 const page = () => {
   return (
     <>
+      <MainContentImage content="Our Treatments" />
       <div className='md:h-[272px] text-center flex flex-col gap-4 md:flex-row items-center md:justify-evenly md:items-center mx-5'>
         <div className='flex flex-col items-center md:w-1/2 md:ml-9'>
           <h1 className='text-4xl font-semibold mb-4'>Treatments</h1>
           <p className='text-justify'>"After a consultation, Lam Aesthetic Clinic offers a wide range of treatments—from anti-wrinkle procedures for both women and men, to dermal and lip fillers, PRP, and skin boosters. We’re confident we have a treatment that will suit your needs and help you glow."</p>
         </div>
         <div className='md:w-[256px] w-[250px]'>
-          <Image src="/lam-aesthetic-treatments.jpg" alt="treatment" className='w-full h-full'  width={256} height={20}/>
+          <Image src="/lam-aesthetic-treatments.jpg" alt="treatment" className='w-full h-full' width={256} height={20} />
         </div>
       </div>
       <div className='flex flex-col items-center gap-4 md:flex-row md:justify-around w-full my-3 md:w-[90%] md:mx-auto mt-8'>
@@ -41,7 +43,7 @@ const page = () => {
           <p className='text-justify'>Botulinum toxin is used to temporarily relax facial muscles, reducing the appearance of fine lines and wrinkles—most commonly on the forehead, around the eyes (crow’s feet), and frown lines. Results appear within days and last 3–4 months.</p>
         </div>
         <div className='md:w-[256px] w-[250px]'>
-          <Image src="/botox-anti-wrinkle.png" alt="botox" className='h-full w-full' width={250} height={50}/>
+          <Image src="/botox-anti-wrinkle.png" alt="botox" className='h-full w-full' width={250} height={50} />
         </div>
 
       </div>
@@ -51,7 +53,7 @@ const page = () => {
           <p className='text-justify'>Hyaluronic acid-based fillers restore lost volume, smooth out deeper lines, and enhance facial contours such as cheeks, lips, jawline, and nasolabial folds. Results are immediate and can last 6–18 months depending on the area treated.</p>
         </div>
         <div className='md:w-[256px] w-[250px]'>
-          <Image src="/dermal-fillers.png" alt="dermalFillers" className='h-full w-full' width={250} height={50}/>
+          <Image src="/dermal-fillers.png" alt="dermalFillers" className='h-full w-full' width={250} height={50} />
         </div>
 
       </div>
@@ -61,7 +63,7 @@ const page = () => {
           <p className='text-justify'>A revolutionary injectable skin treatment that hydrates and remodels the skin using pure hyaluronic acid. Unlike fillers, it spreads beneath the skin to improve tone, texture, and elasticity. Ideal for dull, ageing, or lax skin on the face, neck, or hands.</p>
         </div>
         <div className='md:w-[256px] w-[250px]'>
-          <Image src="/profhilo.jpg" alt="profhilo" className='h-full w-full' width={250} height={50}/>
+          <Image src="/profhilo.jpg" alt="profhilo" className='h-full w-full' width={250} height={50} />
         </div>
 
       </div>
@@ -71,7 +73,7 @@ const page = () => {
           <p className='text-justify'>A subtle lift of the eyebrows using Botox to relax specific muscles and open up the eye area, creating a refreshed and youthful appearance without</p>
         </div>
         <div className='md:w-[256px] w-[250px]'>
-          <Image src="/eyebrowlift.png" alt="eyebrowLift" className='h-full w-full' width={250} height={50}/>
+          <Image src="/eyebrowlift.png" alt="eyebrowLift" className='h-full w-full' width={250} height={50} />
         </div>
 
       </div>
@@ -83,7 +85,7 @@ const page = () => {
             Recurring movement of these muscles in time can cause lines to form that remain visible even when the muscles are at rest.</p>
         </div>
         <div className='md:w-[256px] w-[200px] h-[250px]'>
-          <Image src="/Bunnylines.png" alt="bunnyLines" className='h-full w-full' width={250} height={50}/>
+          <Image src="/Bunnylines.png" alt="bunnyLines" className='h-full w-full' width={250} height={50} />
         </div>
 
       </div>
