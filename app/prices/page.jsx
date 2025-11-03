@@ -3,7 +3,8 @@ import React from 'react'
 import MainContentImage from '../../components/MainContentImage';
 
 export const metadata = {
-  title: "Lam Aesthetic Clinic - Prices",
+  // title: "Lam Aesthetic Clinic - Prices",
+  title: "Aesthetic Treatment Prices Leeds | Affordable Skin & Filler Packages UK",
   keywords: "lam aesthetic prices, best price, lowest price, lip fillers price, wrinkle price , anti wrinkle price, anti-wrinkle price, botox price, dermal price, dermal fillers price,profhilo price, eyebrow lift price, bunnylines price"
   
 };

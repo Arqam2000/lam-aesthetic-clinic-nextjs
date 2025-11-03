@@ -2,7 +2,8 @@ import React from 'react'
 import MainContentImage from '../../components/MainContentImage';
 
 export const metadata = {
-  title: "Lam Aesthetic Clinic - About Us",
+  // title: "Lam Aesthetic Clinic - About Us",
+  title: "About Lam Aesthetic Clinic | Trusted Skin & Aesthetic Experts in Leeds UK",
 };
 
 const page = () => {

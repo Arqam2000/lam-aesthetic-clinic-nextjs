@@ -14,7 +14,7 @@ const Services = () => {
             <div className='flex items-start flex-wrap sm:flex-nowrap lg:mx-10 mx-3 gap-3'>
                 <div className=' md:w-1/3 w-full sm:w-1/3 p-3'>
                     <div>
-                        <Image src="/lam-aesthetic-anti-wrinkles-treatment-leeds.avif" alt="Anti Wrinkles Lam Aesthetic " layout="responsive" width={50} height={50}/>
+                        <Image src="/lam-aesthetic-anti-wrinkles-treatment-leeds.avif" alt="Anti-Wrinkle Injections Leeds UK" layout="responsive" width={50} height={50}/>
                     </div>
                     <div>
                         <h1 className='font-semibold text-xl mt-2 mb-1'>Anti Wrinkles</h1>
@@ -23,7 +23,7 @@ const Services = () => {
                 </div>
                 <div className=' md:w-1/3 w-full sm:w-1/3 p-3'>
                     <div>
-                        <Image src="/lam-aesthetic-dermal-fillers-treatment-leeds.avif" alt="Dermal filler" layout="responsive" width={50} height={50}/>
+                        <Image src="/lam-aesthetic-dermal-fillers-treatment-leeds.avif" alt="Dermal Fillers Leeds UK" layout="responsive" width={50} height={50}/>
                     </div>
                     <div>
                         <h1 className='font-semibold text-xl mt-2 mb-1'>Dermal filler</h1>
@@ -32,7 +32,7 @@ const Services = () => {
                 </div>
                 <div className='relative md:w-1/3 w-full sm:w-1/3 p-3 h-fit'>
                     <div className='relative'>
-                        <Image src="/lam-aesthetic-profhilo-treatment-leeds.avif" alt="Profhilo/skin booster" layout="responsive" width={50} height={50}/>
+                        <Image src="/lam-aesthetic-profhilo-treatment-leeds.avif" alt="Profhilo Skin Booster Leeds UK" layout="responsive" width={50} height={50}/>
                     </div>
                     <div>
                         <h1 className='font-semibold text-xl mt-2 mb-1'>Profhilo/skin booster</h1>

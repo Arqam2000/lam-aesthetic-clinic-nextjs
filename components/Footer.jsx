@@ -49,7 +49,7 @@ const Footer = () => {
                     </div>
                     {/* second portion */}
                     <div className='flex flex-col items-center lg:flex-row gap-2 my-3 lg:my-0 lg:items-start'>
-                        <Link href="/home" className='no-underline text-base mr-6'>Home</Link>
+                        <Link href="/" className='no-underline text-base mr-6'>Home</Link>
                         <Link href="/about-us" className='no-underline text-base mr-6'>About Us</Link>
                         <Link href="/treatments" className='no-underline text-base mr-6'>Treatments</Link>
                         <Link href="/prices" className='no-underline text-base mr-6'>Prices</Link>

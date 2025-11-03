@@ -4,6 +4,11 @@ import axios from 'axios';
 import { useRef, useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 
+export const metadata = {
+  // title: "Book Appointment | Lam Aesthetic Clinic Leeds UK",
+  title: "Book Aesthetic Appointment Leeds | Lam Aesthetic Clinic UK",
+}
+
 const BookAppointment = () => {
   const form = useRef();
   const [user, setUser] = useState({

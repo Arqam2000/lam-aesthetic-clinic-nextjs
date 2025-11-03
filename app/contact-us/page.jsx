@@ -3,7 +3,8 @@ import ContactForm from '@/components/ContactForm'
 import MainContentImage from '../../components/MainContentImage';
 
 export const metadata = {
-  title: "Lam Aesthetic Clinic - Contact Us",
+  // title: "Lam Aesthetic Clinic - Contact Us",
+  title: "Contact Lam Aesthetic Clinic Leeds | Book Your Consultation Today",
 };
 
 const page = () => {

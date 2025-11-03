@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lam Aesthetic Clinic",
-  description: "Welcome to Lam Aesthetic Clinic. Your destination for safe, effective, and elegant facial rejuvenation treatments. Specializing in Botox, Dermal Fillers, and Skin Boosters, we help you look and feel your best.",
-  keywords: "lam aesthetics, beauty clinic, aesthetics,lam,leeds,dr.lam, clinic,uk,aesthetic,beauty,tooba,lip fillers ,wrinkle , anti wrinkle, anti-wrinkle, botox, dermal , dermal fillers,profhilo, eyebrow lift,alwoodley leeds,alwoodley, toobasharaf,lam aesthetics studio,aesthetics studio,studio, non-surgical ,eyebrows,skin , hyaluronic, skin treatment, anti wrinkle injections,lip, aesthetic in leeds, medical spa",
+  title: "Lam Aesthetic Clinic Leeds | Skin care & Anti-Wrinkle Experts UK",
+  description: "We are one of the #1 best leading clinic for tailored non-surgical cosmetic treatments in Leeds. We specialize in personalized aesthetic treament designed to meet your unique skin goals. Enjoy a free, no-obligation skin consultation with our expert skincare specialists team and experience the highest standards of care in the most exclusive day spa setting — all while keeping treatments affordable and accessible. We are best known for Botox, Lip Fillers, Dermal Fillers, Anti Wrinkles, Eyebrows Lift, Bunny lines treatment, Profhilo/skin booster Treatment, Hayfever vaccine and Dissolving filler injection.",
+  keywords: "lam aesthetics, beauty clinic, aesthetics,lam,leeds,dr.lam, clinic,uk,aesthetic,beauty,tooba,lip fillers ,wrinkle , anti wrinkle, anti-wrinkle, botox, dermal , dermal fillers,profhilo, eyebrow lift,alwoodley leeds,alwoodley, toobasharaf,lam aesthetics clinic,aesthetics clinic, non-surgical ,eyebrows,skin , hyaluronic, skin treatment, anti wrinkle injections,lip, aesthetic in leeds, medical spa , near me , cosmetic clinic , facial aesthetics, skin clinic , lip enhancement , facial fillers , lip augmentation , facial treatments , skin care , aesthetic treatments , cosmetic treatments , dermal filler injections , botox injections , wrinkle reduction , skin rejuvenation , lip filler injections , non-surgical treatments , aesthetic medicine , beauty treatments , skin health , anti-aging treatments , cosmetic procedures , facial rejuvenation , skin tightening , lip plumping , wrinkle smoothing , dermal filler treatment, hayfever vaccine, dissolving filler injection",
   icons: {
     icon: '/lam-aesthetic-studio.avif', // Path to your favicon in the public directory
   },

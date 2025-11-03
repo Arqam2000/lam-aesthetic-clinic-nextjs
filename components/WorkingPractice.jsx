@@ -13,7 +13,7 @@ const WorkingPractice = () => {
             <div className='flex items-start justify-center flex-wrap sm:flex-nowrap gap-4'>
                 <div className=' md:w-[25%] w-[70%] sm:w-1/3 p-3 shadow-md shadow-black sm:h-[470px] md:h-[450px] lg:h-[380px]'>
                     <div className='flex justify-center'>
-                        <Image src="/pre-treatment-session.png" alt="Pre-Treatment Session" className='w-[170px]' width={170} height={170} />
+                        <Image src="/pre-treatment-session.png" alt="Aesthetic Consultation Leeds UK" className='w-[170px]' width={170} height={170} />
                     </div>
                     <div>
                         <h1 className='font-semibold text-xl mt-3 mb-1'>Pre-Treatment Session</h1>
@@ -22,7 +22,7 @@ const WorkingPractice = () => {
                 </div>
                 <div className=' md:w-[25%] w-[70%] sm:w-1/3 p-3 shadow-md shadow-black sm:h-[470px] md:h-[450px] lg:h-[380px]'>
                     <div className='flex justify-center'>
-                        <Image src="/lam-aesthetic-treatment.png" alt="Treatment" className='w-[170px]' width={170} height={170}/>
+                        <Image src="/lam-aesthetic-treatment.png" alt="Aesthetic Treatment Leeds UK" className='w-[170px]' width={170} height={170}/>
                     </div>
                     <div>
                         <h1 className='font-semibold text-xl mt-3 mb-1'>Treatment</h1>
@@ -31,7 +31,7 @@ const WorkingPractice = () => {
                 </div>
                 <div className=' md:w-[25%] w-[70%] sm:w-1/3 p-3 shadow-md shadow-black sm:h-[470px] md:h-[460px] lg:h-[380px]'>
                     <div className='flex justify-center'>
-                        <Image src="/lam-aesthetic-post-treatment.avif" alt="Post-Treatment Guidance" className='w-[170px]' width={170} height={170}/>
+                        <Image src="/lam-aesthetic-post-treatment.avif" alt="Post-Treatment Care Leeds UK" className='w-[170px]' width={170} height={170}/>
                     </div>
                     <div>
                         <h1 className='font-semibold text-xl mt-3 mb-1'>Post-Treatment Guidance</h1>

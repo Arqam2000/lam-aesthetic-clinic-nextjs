@@ -1,5 +1,12 @@
 import React from 'react'
 import MainContentImage from '../../components/MainContentImage'
+import { title } from 'process'
+
+export const metadata = {
+  title: "Aftercare for Fillers and Anti-Wrinkle Injections in Leeds UK | Lam Aesthetic Clinic",
+  keywords: "aftercare, fillers aftercare, anti-wrinkle aftercare, dermal fillers aftercare, botox aftercare, post-treatment care, aesthetic treatment aftercare, leeds, uk, lam aesthetic clinic"
+  // title: "Aftercare Guide | Safe Recovery for Fillers & Anti-Wrinkle Treatments"  
+}
 
 const BeforeandAftercare = () => {
   return (

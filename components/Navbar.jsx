@@ -43,7 +43,7 @@ const navbar = () => {
         </div>
 
         <div className='hidden lg:flex '>
-          <Link href="/home" className='no-underline text-black text-base mr-5'>Home</Link>
+          <Link href="/" className='no-underline text-black text-base mr-5'>Home</Link>
           <Link href="/about-us" className='no-underline text-black text-base mr-5'>About Us</Link>
           <Link href="/treatments" className='no-underline text-black text-base mr-5'>Treatments</Link>
           <Link href="/aftercare" className='no-underline text-black text-base mr-5'>Before & Aftercare</Link>
@@ -79,7 +79,7 @@ const navbar = () => {
 
       {/* Mobile Menu */}
       <div className={`${isActive ? "active" : "hidden"} hidden`}>
-        <Link href="/home" className='no-underline text-base mr-5'>Home</Link>
+        <Link href="/" className='no-underline text-base mr-5'>Home</Link>
         <Link href="/about-us" className='no-underline text-base mr-5'>About Us</Link>
         <Link href="/treatments" className='no-underline text-base mr-5'>Treatments</Link>
         <Link href="/prices" className='no-underline text-base mr-5'>Prices</Link>
