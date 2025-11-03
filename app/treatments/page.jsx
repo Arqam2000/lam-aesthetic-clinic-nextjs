@@ -10,10 +10,10 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <MainContentImage content="Our Treatments" />
+      <MainContentImage content="Our Treatments" heading="Treatments"/>
       <div className='md:h-[272px] text-center flex flex-col gap-4 md:flex-row items-center md:justify-evenly md:items-center mx-5'>
         <div className='flex flex-col items-center md:w-1/2 md:ml-9'>
-          <h1 className='text-4xl font-semibold mb-4'>Treatments</h1>
+          {/* <h1 className='text-4xl font-semibold mb-4'>Treatments</h1> */}
           <p className='text-justify'>"After a consultation, Lam Aesthetic Clinic offers a wide range of treatments—from anti-wrinkle procedures for both women and men, to dermal and lip fillers, PRP, and skin boosters. We’re confident we have a treatment that will suit your needs and help you glow."</p>
         </div>
         <div className='md:w-[256px] w-[250px]'>

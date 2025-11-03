@@ -12,11 +12,11 @@ export const metadata = {
 const page = () => {
   return (
     <div>
-      <MainContentImage content="Some content"/>
+      <MainContentImage content="Some content" heading="Prices"/>
       <div className='lg:w-[76%] w-[90%] mx-auto flex flex-col items-center p-3 mt-3 bg-[#00000005]'>
-        <div className='pb-5 border-b border-b-[#dcbae3] w-full text-center'>
+        {/* <div className='pb-5 border-b border-b-[#dcbae3] w-full text-center'>
           <h1 className='lg:text-3xl text-2xl font-bold font-sans'>Prices</h1>
-        </div>
+        </div> */}
         <div className='p-3 pt-0 px-0 mx-20 w-full'>
           <div className='flex justify-between items-center p-3 border-b border-b-[#dcbae3]'>
             <div>

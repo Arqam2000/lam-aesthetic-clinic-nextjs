@@ -11,7 +11,7 @@ export const metadata = {
 const BeforeandAftercare = () => {
   return (
     <div className='flex-1 bg-gray-100'>
-      <MainContentImage content="After care" />
+      <MainContentImage content="After care" heading="Before & Aftercare"/>
       <div className='w-[90%] lg:w-1/2 mx-auto my-5'>
         <h1 className='font-semibold text-2xl'>Fillers and Anti Wrinkles Aftercare</h1>
         <p className='my-2 text-xl'>

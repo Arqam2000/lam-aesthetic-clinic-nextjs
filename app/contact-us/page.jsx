@@ -10,7 +10,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <MainContentImage content="Contact Us" />
+      <MainContentImage content="Contact Us" heading="Contact Us"/>
       <div className='flex lg:justify-center items-center gap-3 '>
         <div className=' w-full flex flex-col items-center gap-5 '>
           <ContactForm />
