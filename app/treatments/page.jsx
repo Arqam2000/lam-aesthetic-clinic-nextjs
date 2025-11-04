@@ -3,7 +3,7 @@ import React from 'react'
 import MainContentImage from '@/components/MainContentImage';
 
 export const metadata = {
-  title: "Aesthetic Treatments in Leeds UK | Dermal Fillers, Botox & Profhilo",
+  title: "Aesthetic Treatments in Leeds UK | Anti Wrinkles, Dermal Fillers, Botox & Profhilo",
   keywords: "lip fillers, wrinkle , anti wrinkle, anti-wrinkle, botox, dermal , dermal filler, dermal filler leeds, profhilo, profhilo leeds, eyebrow lift, eyebrow lift leeds, bunnylines, bunnylines leeds, non-surgical, eyebrows, skin , hyaluronic, skin treatment, skin treatment leeds, anti wrinkle injections, anti wrinkle injections leeds, lip, aesthetic in leeds, Botox Leeds, Lip filler Leeds, best price, aesthetic treatments, Botox injections, anti-wrinkle procedure, lip filler, Botox injections leeds, anti-wrinkle procedure leeds"
 };
 
