@@ -21,6 +21,10 @@ export const metadata: Metadata = {
   icons: {
     icon: '/lam-aesthetic-studio.avif', // Path to your favicon in the public directory
   },
+  alternates: {
+    canonical: "https://lamaesthetic.co.uk",
+  },
+
 };
 
 export default function RootLayout({

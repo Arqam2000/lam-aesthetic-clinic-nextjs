@@ -1,8 +1,7 @@
 'use client'
 // import slider1 from "../assets/look-studio-HtXyytr9304-unsplash.jpg"
-import slider1 from "@/public/skin-aesthetic-clinic-leeds-uk.jpg"
+import slider1 from "@/public/lam-aesthetic-beauty-treatment-slider.jpg"
 import slider2 from "@/public/lam-aesthetic-slider.avif"
-import { Slide } from 'react-slideshow-image';
 import 'react-slideshow-image/dist/styles.css'
 import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
