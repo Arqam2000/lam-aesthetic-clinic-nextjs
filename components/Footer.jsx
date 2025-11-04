@@ -6,6 +6,7 @@
 // import emailLogo from "../assets/letter.png"
 import Link from "next/link"
 import Image from "next/image"
+import { Instagram } from "@deemlol/next-icons";
 
 const Footer = () => {
     return (
@@ -42,6 +43,9 @@ const Footer = () => {
                                         <Image src="/letter.png" alt="email" width={20} height={20}/>
                                     </div>
                                     <p className='text-sm'>toobasharaf@aol.com</p>
+                                </div>
+                                <div>
+                                    <Link href="https://www.instagram.com/lamaesthetic787" target="_blank"><Instagram size={24} color="#FFFFFF" /></Link>
                                 </div>
 
                             </div>
