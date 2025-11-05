@@ -16,11 +16,11 @@ const Footer = () => {
                     {/* first portion */}
                     <div className='flex gap-4 flex-col lg:flex-row items-center lg:items-start'>
                         <div className='w-20'>
-                            <Image src="/lam-aesthetic-studio-blue.avif" alt="Lam Aesthetic Clinic" className='' width={80} height={80}/>
+                            <Image src="/lam-aesthetic-studio-blue.avif" alt="Lam Aesthetics Clinic" className='' width={80} height={80}/>
                         </div>
                         <div className='flex flex-col gap-2'>
                             <div>
-                                <h1 className='font-semibold text-xl'>Lam Aesthetic Clinic</h1>
+                                <h1 className='font-semibold text-xl'>Lam Aesthetics Clinic</h1>
                             </div>
                             <div className='flex flex-col justify-center lg:gap-2 gap-3'>
                                 <div className='flex items-center'>
@@ -72,7 +72,7 @@ const Footer = () => {
 
                 {/* Bottom Footer */}
                 <div className='bg-[#4B54AD] h-10 flex items-center justify-center border-t border-t-gray-400'>
-                    <p className='text-white text-sm'>Copyright © 2025 Aesthetic Studio</p>
+                    <p className='text-white text-sm'>Copyright © 2025 Aesthetics Studio</p>
                 </div>
             </div>
         </footer>

@@ -89,7 +89,7 @@ const Slider = () => {
         >
           <Image
             src={images[currentIndex]}
-            alt={`Skin Care Aesthetic Clinic Leeds UK ${currentIndex + 1}`}
+            alt={`Skin Care Aesthetics Clinic Leeds UK ${currentIndex + 1}`}
             layout="fill"
             objectFit="cover"
             loading="eager"
@@ -99,11 +99,11 @@ const Slider = () => {
           />
           <div>
             <div className='mx-2 mb-2 lg:mx-11 relative'>
-              <h1 className='lg:text-xl font-bold text-base text-[#ff0a64] italic'>Aesthetic Excellence for Ageless Beauty</h1>
+              <h1 className='lg:text-xl font-bold text-base text-[#ff0a64] italic'>Aesthetics Excellence for Ageless Beauty</h1>
             </div>
             <div className='lg:w-2/6 w-[250px]  flex flex-col gap-2 lg:ml-10 ml-2  bg-gray-300 opacity-65 px-2 py-3'>
 
-              <p className='font-normal text-justify text-sm text-black'><span className='italic font-medium text-base block'>Welcome to Lam Aesthetic Clinic, Leeds UK</span> Your destination for safe, effective, and elegant facial rejuvenation treatments. Specializing in Botox, Lip Fillers, Dermal Fillers, Anti Wrinkles, Eyebrows Lift, Bunny lines treatment, Profhilo/skin booster Treatment, Hayfever vaccine, Dissolving filler injection. We help you look and feel your best.
+              <p className='font-normal text-justify text-sm text-black'><span className='italic font-medium text-base block'>Welcome to Lam Aesthetics Clinic, Leeds UK</span> Your destination for safe, effective, and elegant facial rejuvenation treatments. Specializing in Botox, Lip Fillers, Dermal Fillers, Anti Wrinkles, Eyebrows Lift, Bunny lines treatment, Profhilo/skin booster Treatment, Hayfever vaccine, Dissolving filler injection. We help you look and feel your best.
 
               </p >
               <p className='font-xl font-semibold text-justify text-base text-red-600'>Consultations for FREE!</p>

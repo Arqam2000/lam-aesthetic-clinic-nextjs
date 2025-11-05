@@ -3,7 +3,7 @@ import React from 'react'
 import MainContentImage from '@/components/MainContentImage';
 
 export const metadata = {
-  title: "Aesthetic Treatments in Leeds UK | Anti Wrinkles, Dermal Fillers, Botox & Profhilo",
+  title: "Aesthetics Treatments in Leeds UK | Anti Wrinkles, Dermal Fillers, Botox & Profhilo",
   keywords: "lip fillers, wrinkle , anti wrinkle, anti-wrinkle, botox, dermal , dermal filler, dermal filler leeds, profhilo, profhilo leeds, eyebrow lift, eyebrow lift leeds, bunnylines, bunnylines leeds, non-surgical, eyebrows, skin , hyaluronic, skin treatment, skin treatment leeds, anti wrinkle injections, anti wrinkle injections leeds, lip, aesthetic in leeds, Botox Leeds, Lip filler Leeds, best price, aesthetic treatments, Botox injections, anti-wrinkle procedure, lip filler, Botox injections leeds, anti-wrinkle procedure leeds"
 };
 
@@ -14,10 +14,10 @@ const page = () => {
       <div className='md:h-[272px] text-center flex flex-col gap-4 md:flex-row items-center md:justify-evenly md:items-center mx-5'>
         <div className='flex flex-col items-center md:w-1/2 md:ml-9'>
           {/* <h1 className='text-4xl font-semibold mb-4'>Treatments</h1> */}
-          <p className='text-justify'>"After a consultation, Lam Aesthetic Clinic offers a wide range of treatments—from anti-wrinkle procedures for both women and men, to dermal and lip fillers, PRP, and skin boosters. We’re confident we have a treatment that will suit your needs and help you glow."</p>
+          <p className='text-justify'>"After a consultation, Lam Aesthetics Clinic offers a wide range of treatments—from anti-wrinkle procedures for both women and men, to dermal and lip fillers, PRP, and skin boosters. We’re confident we have a treatment that will suit your needs and help you glow."</p>
         </div>
         <div className='md:w-[256px] w-[250px]'>
-          <Image src="/lam-aesthetic-treatments.jpg" alt="Aesthetic Treatment Leeds UK" className='w-full h-full' width={256} height={20} />
+          <Image src="/lam-aesthetic-treatments.jpg" alt="Aesthetics Treatment Leeds UK" className='w-full h-full' width={256} height={20} />
         </div>
       </div>
       <div className='flex flex-col items-center gap-4 md:flex-row md:justify-around w-full my-3 md:w-[90%] md:mx-auto mt-8'>

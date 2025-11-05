@@ -7,7 +7,7 @@ export const metadata = {
   title: "Aesthetic Treatment Prices Leeds | Affordable Skin & Filler Packages UK",
   keywords: "lam aesthetic prices, best price, lowest price, lip fillers price, wrinkle price , anti wrinkle price, anti-wrinkle price, botox price, dermal price, dermal fillers price,profhilo price, eyebrow lift price, bunnylines price",
   alternates: {
-    canonical: "https://lamaesthetic.co.uk/prices",
+    canonical: "https://www.lamaesthetic.co.uk/prices",
   },
   
 };

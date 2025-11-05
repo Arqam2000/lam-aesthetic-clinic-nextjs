@@ -4,7 +4,7 @@ export const metadata = {
   // title: "Lam Aesthetic Clinic - Appointments",
   title: "Book Aesthetic Appointments Leeds | Lam Aesthetic Clinic UK",
   alternates: {
-    canonical: "https://lamaesthetic.co.uk/appointments",
+    canonical: "https://www.lamaesthetic.co.uk/appointments",
   },
 };
 

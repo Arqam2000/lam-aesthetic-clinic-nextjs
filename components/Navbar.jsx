@@ -38,8 +38,8 @@ const navbar = () => {
       <nav className='flex justify-around items-center shadow p-0 m-0 py-4 h-20'>
 
         <div className='flex items-center gap-2'>
-          <div><Image src="/lam-aesthetic-studio.avif" alt="Lam Aesthetic Clinic" className='w-16' width={64} height={64} loading='lazy' /></div>
-          <h1 className='text-xl font-semibold'>Lam Aesthetic Clinic</h1>
+          <div><Image src="/lam-aesthetic-studio.avif" alt="Lam Aesthetics Clinic" className='w-16' width={64} height={64} loading='lazy' /></div>
+          <h1 className='text-xl font-semibold'>Lam Aesthetics Clinic</h1>
         </div>
 
         <div className='hidden lg:flex '>
