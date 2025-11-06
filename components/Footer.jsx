@@ -6,7 +6,7 @@
 // import emailLogo from "../assets/letter.png"
 import Link from "next/link"
 import Image from "next/image"
-import { Instagram } from "@deemlol/next-icons";
+import { Facebook, Instagram } from "@deemlol/next-icons";
 
 const Footer = () => {
     return (
@@ -44,8 +44,19 @@ const Footer = () => {
                                     </div>
                                     <p className='text-sm'>toobasharaf@aol.com</p>
                                 </div>
-                                <div>
-                                    <Link href="https://www.instagram.com/lamaesthetic787" target="_blank"><Instagram size={24} color="#FFFFFF" /></Link>
+                                <div className="flex gap-3">
+                                    <Link href="https://www.instagram.com/lamaesthetic787" target="_blank">
+                                    <Instagram size={24} 
+                                    // color="#FFFFFF" 
+                                    className="bg-pink-400 rounded-full p-1"
+                                    /></Link>
+                                    <Link href="https://www.facebook.com/profile.php?id=61583537003122" target="_blank">
+                                    <Facebook size={26} 
+                                    // color="#FFFFFF"
+                                    // color="blue"
+                                    className="bg-blue-500 rounded-full p-1"
+                                     />
+                                     </Link>
                                 </div>
 
                             </div>
@@ -57,7 +68,14 @@ const Footer = () => {
                         <Link href="/about-us" className='no-underline text-base mr-6'>About Us</Link>
                         <Link href="/treatments" className='no-underline text-base mr-6'>Treatments</Link>
                         <Link href="/prices" className='no-underline text-base mr-6'>Prices</Link>
+                        <Link href="/contact-us" className='no-underline text-base mr-6'>Contact us</Link>
                     </div>
+
+                    {/* <div className='flex flex-col items-center lg:flex-row gap-2 my-3 lg:my-0 lg:items-start'>
+                    </div> */}
+
+
+
                     {/* third portion */}
                     <div className='flex flex-col items-center lg:flex-row lg:items-start lg:gap-1 gap-3 '>
                         <div className='flex flex-col lg:gap-2 gap-3'>

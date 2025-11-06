@@ -41,7 +41,7 @@ const Home = () => {
       {/* </Suspense> */}
       <div className='md:mx-14 mt-9 bg-gray-100 p-4'>
         <h1 className='text-3xl mb-2 text-center'>Best Aesthetics Skin Care Clinic Leeds UK</h1>
-        <p className='text-justify text-lg'>We are one of the best leading clinic for tailored non-surgical cosmetic treatments in Leeds. We specialize in personalized aesthetics treament designed to meet your unique skin goals. Enjoy a free, no-obligation skin consultation with our expert skincare specialists team and experience the highest standards of care in the most exclusive day spa setting — all while keeping treatments affordable and accessible. We are best known for Botox, Lip Fillers, Dermal Fillers, Anti Wrinkles, Eyebrows Lift, Bunny lines treatment, Profhilo/skin booster Treatment, Hayfever vaccine and Dissolving filler injection.</p>
+        <p className='text-justify text-lg'>We are one of the best leading clinic for tailored non-surgical cosmetic treatments in Leeds. We are specialized in personalize aesthetics treatment designed to meet your unique skin goals. Enjoy a free, no-obligation skin consultation with our expert skincare specialists team and experience the highest standards of care in the most exclusive day spa setting — all while keeping treatments affordable and accessible. We are best known for Botox, Lip Fillers, Dermal Fillers, Anti Wrinkles, Eyebrows Lift, Bunny lines treatment, Profhilo/skin booster Treatment, Hayfever vaccine and Dissolving filler injection.</p>
       </div>
       <Services />
       <WorkingPractice />
